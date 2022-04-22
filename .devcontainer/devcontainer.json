@@ -9,7 +9,6 @@
     }
   },
   "extensions": ["ms-toolsai.jupyter", "ms-python.python"],
-  "postAttachCommand": "scripts/post-attach-command.sh",
   "features": {
     "github-cli": "latest"
   }
